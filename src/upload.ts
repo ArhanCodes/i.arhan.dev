@@ -1,6 +1,6 @@
 /**
  * @file upload.ts
- * @description Upload handler for crepe.moe
+ * @description 
  */
 import { Request, Response } from 'express';
 import { UploadedFile } from 'express-fileupload';
