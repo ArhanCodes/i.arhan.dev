@@ -1,6 +1,5 @@
 /**
  * @class Logger
- * @description 
  * @param logName
  */
 import color from 'colorts';
