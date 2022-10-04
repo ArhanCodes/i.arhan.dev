@@ -1,6 +1,5 @@
 /**
- * @file template.ts
- * @description 
+ * @file template.ts 
  */
 type stringObject = { [key: string]: string };
 import fs from 'fs';
