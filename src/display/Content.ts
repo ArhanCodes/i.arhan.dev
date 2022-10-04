@@ -1,6 +1,5 @@
 /**
- * @class Content
- * @description 
+ * @class Content 
  */
 import { UploadedFile } from "express-fileupload";
 import fs from "fs";
