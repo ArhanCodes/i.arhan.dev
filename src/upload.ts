@@ -1,6 +1,5 @@
 /**
  * @file upload.ts
- * @description 
  */
 import { Request, Response } from 'express';
 import { UploadedFile } from 'express-fileupload';
